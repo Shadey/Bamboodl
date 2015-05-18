@@ -61,6 +61,6 @@ Bamboodl has a function called `reprocess_the_dead()`. If your Internet connecti
 
 #Confused?
 
-If there's anything on this page you don't understand, visit [this faq page](faq_neophytes.md#help) for some clarification.
+If there's anything on this page you don't understand, visit the wiki for some clarification.
 
-If you have more technical questions about Bamboodl, check [this faq](faq_general.md#faq) instead.
+If you have more technical questions about Bamboodl, check the wiki instead.
