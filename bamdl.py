@@ -90,6 +90,7 @@ if __name__ == '__main__':
     }
     deadlinks = []
     try:
+        print("Waiting for changes to new.txt")
         main()
     except KeyboardInterrupt:
         f  = open("new.txt")
